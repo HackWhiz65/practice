@@ -109,9 +109,9 @@
 
 
 function buy(){
-    window.location.href = "https://google.com";
+    window.open = "https://google.com","_blank";
 } 
 
 function cart(){
-    window.location.href = "https://youtube.com";
+    window.open = "https://youtube.com","_blank";
 }
