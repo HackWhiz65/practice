@@ -106,3 +106,12 @@
 
 // console.log(a==b);
 // console.log(a===b);
+
+
+function buy(){
+    window.location.href = "https://google.com";
+} 
+
+function cart(){
+    window.location.href = "https://youtube.com";
+}
