@@ -109,9 +109,9 @@
 
 
 function buy(){
-    window.open = "https://google.com","_blank";
+    window.open("https://google.com","_blank");
 } 
 
 function cart(){
-    window.open = "https://youtube.com","_blank";
+    window.open("https://youtube.com","_blank");
 }
