@@ -115,3 +115,6 @@ function buy(){
 function cart(){
     window.open("https://youtube.com","_blank");
 }
+function fav(){
+    window.open("https://amazon.com", "_blank");
+}
